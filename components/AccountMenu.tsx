@@ -14,8 +14,8 @@ const AccountMenu:React.FC<AccountMenuProps> = ({
     if(!visible) return null;
 
     const {data: user}=useCurrentUser();
-
-    const profile=user[0];
+    const profile = user ? user[0] : null;
+    
     console.log(user);
     return (
         <div className='bg-black w-56 absolute top-14 right-0 py-5 flex-col border-2 border-gray-800 flex'>
