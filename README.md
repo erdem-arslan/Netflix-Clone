@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a [Next.js](https://nextjs.org/) project, can you see [`demo`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
 
@@ -11,6 +11,16 @@ yarn dev
 # or
 pnpm dev
 ```
+
+<img src="/public/readme-images/1.gif" alt="Açıklama metni" width="400" />
+
+<img src="/public/readme-images/2.gif" alt="Açıklama metni" width="400" />
+
+<img src="/public/readme-images/3.gif" alt="Açıklama metni" width="400" />
+
+<img src="/public/readme-images/4.gif" alt="Açıklama metni" width="400" />
+
+<img src="/public/readme-images/5.gif" alt="Açıklama metni" width="400" />
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
