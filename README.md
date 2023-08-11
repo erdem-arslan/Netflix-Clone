@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org/) project, can you see [`demo`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a [Next.js](https://nextjs.org/) project.
 
 ## Getting Started
 
